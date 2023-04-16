@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeekStringsAndArray", "WeekStringsAndArray\WeekStringsAndArray.csproj", "{1F5445EC-8E11-4912-BBBF-51DD10695528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week6Arrays", "Week6Arrays\Week6Arrays.csproj", "{FD07BE84-9EAA-40AD-8C57-4269B8F15F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5445EC-8E11-4912-BBBF-51DD10695528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5445EC-8E11-4912-BBBF-51DD10695528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5445EC-8E11-4912-BBBF-51DD10695528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5445EC-8E11-4912-BBBF-51DD10695528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD07BE84-9EAA-40AD-8C57-4269B8F15F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD07BE84-9EAA-40AD-8C57-4269B8F15F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD07BE84-9EAA-40AD-8C57-4269B8F15F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD07BE84-9EAA-40AD-8C57-4269B8F15F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A955294-E768-430B-A761-8A18D9FCB22F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\bin\Debug\net6.0\WeekStringsAndArray.exe
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\bin\Debug\net6.0\WeekStringsAndArray.deps.json
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\bin\Debug\net6.0\WeekStringsAndArray.runtimeconfig.json
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\bin\Debug\net6.0\WeekStringsAndArray.dll
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\bin\Debug\net6.0\WeekStringsAndArray.pdb
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\WeekStringsAndArray.csproj.AssemblyReference.cache
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\WeekStringsAndArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\WeekStringsAndArray.AssemblyInfoInputs.cache
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\WeekStringsAndArray.AssemblyInfo.cs
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\WeekStringsAndArray.csproj.CoreCompileInputs.cache
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\WeekStringsAndArray.dll
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\refint\WeekStringsAndArray.dll
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\WeekStringsAndArray.pdb
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\WeekStringsAndArray.genruntimeconfig.cache
+C:\Users\Ekin\source\repos\WeekStringsAndArray\WeekStringsAndArray\obj\Debug\net6.0\ref\WeekStringsAndArray.dll
